@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bd89373-9908-4b59-8e0c-fcefc6219e29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TToMusic" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Zfe3a6VKKerbgPDKaR3UqGEeIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/music" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\web-workspace\JetBrains-workspace-project\TToMusic\TToMusic\src\main\resources\d" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.music.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\web-workspace\JetBrains-workspace-project\TToMusic\TToMusic\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ToMusicDemo">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="TToMusic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GG" />
+      <module name="TToMusic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToMusicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.music.utils.ToMusicDemo" />
+      <module name="TToMusic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.music.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ToMusicDemo" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.GG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd89373-9908-4b59-8e0c-fcefc6219e29" name="Default Changelist" comment="" />
+      <created>1585234376472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585234376472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1585238552353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585238552353" />
+    <state x="690" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585235755945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585235755945" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585235915901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585235915901" />
+    <state x="560" y="263" key="FileChooserDialogImpl" timestamp="1585238550212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585238550212" />
+    <state x="823" y="415" key="Github.ShareDialog" timestamp="1585240700535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585240700535" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585240437246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585240437246" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585240437246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585240437246" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585240437246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585240437246" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585240437246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585240437246" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585238335911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585238335911" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585238335911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585238335911" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585238335911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585238335911" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585238335911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585238335911" />
+    <state x="759" y="300" key="chooseDestDirectoryDialog" timestamp="1585234652562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="300" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585234652562" />
+    <state x="334" y="227" key="new project wizard" timestamp="1585237700066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="227" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585237700066" />
+  </component>
+</project>
