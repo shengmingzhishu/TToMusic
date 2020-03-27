@@ -34,7 +34,7 @@ public class ToMusicDemo {
 
         // 可选：设置log4j日志输出格式，若不设置，则使用默认配置
         // 也可以直接通过jvm启动参数设置此环境变量
-        System.setProperty("aip.log4j.conf", "log4j.properties");
+//        System.setProperty("aip.log4j.conf", "log4j.properties");
 
         // 调用接口
         HashMap<String, Object> option = new HashMap<>();
@@ -45,7 +45,7 @@ public class ToMusicDemo {
         option.put("per", "1");
         option.put("aue", "6");
 
-        LOGGER.info("请求百度Option", option);
+        LOGGER.info("请求百度Option {}", option);
 
         TtsResponse res = client.synthesis("你好百度", "zh", 1, option);
         byte[] data = res.getData();
@@ -58,7 +58,7 @@ public class ToMusicDemo {
             }
         }
         if (res1 != null) {
-            System.out.println(res1.toString(2));
+            System.out.println(res1.toString());
         }
 
     }
