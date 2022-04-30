@@ -1,7 +1,7 @@
 package com.music.boot;
 
 import com.music.constant.BaiduConfig;
-import com.music.utils.ToMusicManager;
+import com.music.manager.ToMusicManager;
 
 import java.util.HashMap;
 
